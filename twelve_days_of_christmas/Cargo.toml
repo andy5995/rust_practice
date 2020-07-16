@@ -1,6 +1,0 @@
-[package]
-name = "twelve_days_of_christmas"
-version = "0.1.0"
-authors = ["andy5995 <andy400-dev@yahoo.com>"]
-
-[dependencies]
